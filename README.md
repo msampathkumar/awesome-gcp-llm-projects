@@ -17,6 +17,14 @@ A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent 
 ### Platforms & Frameworks
 - [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
 
+### Platforms & Frameworks
+- [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
+- [Google Flow](https://labs.google/flow/) - An experimental tool from Google Labs for building and visualizing AI workflows. #Flow #AIWorkflows #Labs
+
+### Tools & CLI
+- [Gemini CLI](https://geminicli.com/) - A command-line interface for interacting with Googles Gemini models. #CLI #Gemini #Developers
+- [Google AI Studio](https://aistudio.google.com/) - A fast way to build with Gemini models and get API keys. #AIStudio #Gemini #API
+
 ### Industry Specific
 - [EssAI](https://github.com/GoogleCloudPlatform/essai) - Automated essay grading for educators using Google Gemini. #Education #Gemini
 
