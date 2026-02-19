@@ -21,6 +21,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 
 ### Platforms & Frameworks
 - [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
+- [GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - A Vertex AI generative media experience highlighting Imagen, Veo, and Gemini APIs. #GenMedia #VertexAI #Creatives
 - [Google Flow](https://labs.google/flow/) - An experimental tool from Google Labs for building and visualizing AI workflows. #Flow #AIWorkflows #Labs
 
 ### Tools & CLI
