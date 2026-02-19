@@ -10,12 +10,14 @@ A curated collection of Awesome LLM apps built with RAG, AI Agents, Multi-agent 
 - [Open Data QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - Library for chatting with databases using LLM Agents on Google Cloud (NL2SQL). #NL2SQL #Agents
 
 ### Model Context Protocol (MCP)
+- [Official Google Remote MCP Servers](https://docs.cloud.google.com/mcp/supported-products) - Comprehensive list of Google Cloud products accessible through remote MCP servers.
+  - **Databases**: [AlloyDB](https://cloud.google.com/alloydb/docs/ai/use-alloydb-mcp), [BigQuery](https://cloud.google.com/bigquery/docs/reference/mcp), [Bigtable](https://cloud.google.com/bigtable/docs/use-bigtable-mcp), [Cloud SQL](https://cloud.google.com/sql/docs/mysql/use-cloudsql-mcp), [Firestore](https://cloud.google.com/firestore/native/docs/use-firestore-mcp), [Spanner](https://cloud.google.com/spanner/docs/use-spanner-mcp).
+  - **Infrastructure**: [Compute Engine](https://cloud.google.com/compute/docs/reference/mcp), [GKE](https://cloud.google.com/kubernetes-engine/docs/reference/mcp), [Resource Manager](https://cloud.google.com/resource-manager/reference/mcp).
+  - **Operations**: [Cloud Logging](https://cloud.google.com/logging/docs/reference/v2/mcp), [Cloud Monitoring](https://cloud.google.com/monitoring/api/ref_v3/mcp).
+  - **Security**: [Google Security Operations](https://cloud.google.com/chronicle/docs/reference/mcp).
+  - **Knowledge & Maps**: [Developer Knowledge API](https://developers.google.com/knowledge/api), [Maps Grounding Lite](https://developers.google.com/maps/ai/grounding-lite).
 - [Gemini Cloud Assist MCP](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp) - MCP Server for Gemini Cloud Assist providing tools for GCP tasks. #MCP #CloudAssist
-- [Google Cloud Managed MCP Servers](https://cloud.google.com/blog/products/databases/managed-mcp-servers-for-google-cloud-databases) - Managed MCP support for AlloyDB, Spanner, Cloud SQL, Bigtable, and Firestore. #MCP #Databases #Agents
-- [Google Cloud Developer Knowledge MCP](https://developers.google.com/knowledge/mcp) - Connects IDEs to Google’s documentation via MCP for technical troubleshooting. #MCP #Developers
-
-### Platforms & Frameworks
-- [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
+- [Google MCP GitHub Repository](https://github.com/Google/mcp) - Collection of local MCP servers maintained by Google.
 
 ### Platforms & Frameworks
 - [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
