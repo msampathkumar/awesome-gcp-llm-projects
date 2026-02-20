@@ -5,6 +5,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 
 ### AI Agents & Templates
 - [Google Antigravity](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/) - Google's new agentic development platform for building autonomous systems with visual verification. #Agents #Antigravity #Autonomous
+- [Google Cloud Managed MCP Servers](https://cloud.google.com/blog/products/databases/managed-mcp-servers-for-google-cloud-databases) - Managed MCP support for AlloyDB, Spanner, Cloud SQL, Bigtable, and Firestore. #MCP #Databases #Agents
 - [Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Production-ready templates for shipping AI Agents to Google Cloud in minutes. #Agents #Templates
 - [Employee Onboarding Agent with ADK](https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-onboarding-agents-with-gemini-enterprise) - Guide on using Agent Development Kit (ADK) and Agent Engine for enterprise agents. #Agents #ADK #Enterprise
 - [Gemini Enterprise Agent Ready (GEAR)](https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available) - New program and tools for building AI agents at scale on Vertex AI. #Agents #Enterprise
@@ -17,6 +18,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
   - **Operations**: [Cloud Logging](https://cloud.google.com/logging/docs/reference/v2/mcp), [Cloud Monitoring](https://cloud.google.com/monitoring/api/ref_v3/mcp).
   - **Security**: [Google Security Operations](https://cloud.google.com/chronicle/docs/reference/mcp).
   - **Knowledge & Maps**: [Developer Knowledge API](https://developers.google.com/knowledge/api), [Maps Grounding Lite](https://developers.google.com/maps/ai/grounding-lite).
+- [Google Cloud Developer Knowledge MCP](https://developers.google.com/knowledge/mcp) - Connects IDEs to Google’s documentation via MCP for technical troubleshooting. #MCP #Developers
 - [Gemini Cloud Assist MCP](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp) - MCP Server for Gemini Cloud Assist providing tools for GCP tasks. #MCP #CloudAssist
 - [Google MCP GitHub Repository](https://github.com/Google/mcp) - Collection of local MCP servers maintained by Google.
 
