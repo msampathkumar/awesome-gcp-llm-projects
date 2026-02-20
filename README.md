@@ -4,6 +4,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 ## Projects
 
 ### AI Agents & Templates
+- [Google Antigravity](https://developers.googleblog.com/build-with-google-antigravity-our-new-agentic-development-platform/) - Google's new agentic development platform for building autonomous systems with visual verification. #Agents #Antigravity #Autonomous
 - [Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Production-ready templates for shipping AI Agents to Google Cloud in minutes. #Agents #Templates
 - [Employee Onboarding Agent with ADK](https://cloud.google.com/blog/topics/developers-practitioners/how-to-build-onboarding-agents-with-gemini-enterprise) - Guide on using Agent Development Kit (ADK) and Agent Engine for enterprise agents. #Agents #ADK #Enterprise
 - [Gemini Enterprise Agent Ready (GEAR)](https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available) - New program and tools for building AI agents at scale on Vertex AI. #Agents #Enterprise
@@ -20,6 +21,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Google MCP GitHub Repository](https://github.com/Google/mcp) - Collection of local MCP servers maintained by Google.
 
 ### Platforms & Frameworks
+- [LiteRT](https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/) - Formerly TFLite, now 1.4x faster for on-device AI. Optimized for Gemma on mobile. #LiteRT #OnDeviceAI #EdgeAI
 - [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
 - [GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - A Vertex AI generative media experience highlighting Imagen, Veo, and Gemini APIs. #GenMedia #VertexAI #Creatives
 - [Google Flow](https://labs.google/flow/) - An experimental tool from Google Labs for building and visualizing AI workflows. #Flow #AIWorkflows #Labs
