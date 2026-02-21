@@ -33,6 +33,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Google AI Studio](https://aistudio.google.com/) - A fast way to build with Gemini models and get API keys. #AIStudio #Gemini #API
 
 ### Industry Specific
+- [Voicebox](https://github.com/jamiepine/voicebox) - A local-first voice synthesis studio with DAW-like features for professional voice synthesis. #Voice #Synthesis #LocalFirst
 - [EssAI](https://github.com/GoogleCloudPlatform/essai) - Automated essay grading for educators using Google Gemini. #Education #Gemini
 
 ---
