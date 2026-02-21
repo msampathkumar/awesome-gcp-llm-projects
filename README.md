@@ -12,6 +12,10 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Open Data QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - Library for chatting with databases using LLM Agents on Google Cloud (NL2SQL). #NL2SQL #Agents
 
 - [Daggr](https://huggingface.co/blog/daggr) - A programmatic tool for chaining applications with visual inspection, bridging the gap between scripts and full agentic loops. #Agents #Automation #VisualInspection
+- [Agno](https://github.com/agno-ai/agno) - Build multi-modal agents with model-agnostic control and integrated knowledge. #Agents #MultiModal
+- [Browser Use](https://github.com/browser-use/browser-use) - Make any LLM operate a browser like a human. #Agents #BrowserAutomation
+- [Letta](https://github.com/letta-ai/letta) - Control plane for stateful AI agents (formerly MemGPT). #Agents #Stateful
+- [mem0](https://github.com/mem0ai/mem0) - The memory layer for AI agents. #Agents #Memory
 
 ### Model Context Protocol (MCP)
 - [Official Google Remote MCP Servers](https://docs.cloud.google.com/mcp/supported-products) - Comprehensive list of Google Cloud products accessible through remote MCP servers.
@@ -29,7 +33,6 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Google Cloud Creative Studio](https://github.com/GoogleCloudPlatform/gcc-creative-studio) - Comprehensive GenAI Platform and reference implementation on Vertex AI. #Platform #VertexAI
 - [GenMedia Creative Studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - A Vertex AI generative media experience highlighting Imagen, Veo, and Gemini APIs. #GenMedia #VertexAI #Creatives
 - [Google Flow](https://labs.google/flow/) - An experimental tool from Google Labs for building and visualizing AI workflows. #Flow #AIWorkflows #Labs
-- [Daggr](https://huggingface.co/blog/daggr) - A programmatic tool for chaining applications with visual inspection, bridging the gap between scripts and full agentic loops. #Daggr #AppChaining #Verification
 
 ### Tools & CLI
 - [Gemini CLI](https://geminicli.com/) - A command-line interface for interacting with Googles Gemini models. #CLI #Gemini #Developers
