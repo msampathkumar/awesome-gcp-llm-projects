@@ -11,6 +11,8 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Gemini Enterprise Agent Ready (GEAR)](https://cloud.google.com/blog/products/ai-machine-learning/gear-program-now-available) - New program and tools for building AI agents at scale on Vertex AI. #Agents #Enterprise
 - [Open Data QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - Library for chatting with databases using LLM Agents on Google Cloud (NL2SQL). #NL2SQL #Agents
 
+- [Daggr](https://huggingface.co/blog/daggr) - A programmatic tool for chaining applications with visual inspection, bridging the gap between scripts and full agentic loops. #Agents #Automation #VisualInspection
+
 ### Model Context Protocol (MCP)
 - [Official Google Remote MCP Servers](https://docs.cloud.google.com/mcp/supported-products) - Comprehensive list of Google Cloud products accessible through remote MCP servers.
   - **Databases**: [AlloyDB](https://cloud.google.com/alloydb/docs/ai/use-alloydb-mcp), [BigQuery](https://cloud.google.com/bigquery/docs/reference/mcp), [Bigtable](https://cloud.google.com/bigtable/docs/use-bigtable-mcp), [Cloud SQL](https://cloud.google.com/sql/docs/mysql/use-cloudsql-mcp), [Firestore](https://cloud.google.com/firestore/native/docs/use-firestore-mcp), [Spanner](https://cloud.google.com/spanner/docs/use-spanner-mcp).
