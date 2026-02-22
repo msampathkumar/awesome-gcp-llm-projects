@@ -43,5 +43,26 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Voicebox](https://github.com/jamiepine/voicebox) - A local-first voice synthesis studio with DAW-like features for professional voice synthesis. #Voice #Synthesis #LocalFirst
 - [EssAI](https://github.com/GoogleCloudPlatform/essai) - Automated essay grading for educators using Google Gemini. #Education #Gemini
 
+### Code & Samples
+- [Generative AI Samples](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI. #GenerativeAI #VertexAI #Gemini #Samples
+- [Gen AI for Svelte](https://github.com/lassestilvang/gen-ai-for-svelte) - A simple Svelte project using Google Vertex AI to do a simple prompt and display the results. #Web #Svelte #VertexAI #Gemini
+
+### Multi-Agent Systems
+- [ARBITER](https://github.com/sambhandavale/arbiter) - An adversarial multi-agent platform powered by Google ADK and Gemini that cross-examines supply chain claims. #MultiAgent #ADK #Gemini #SupplyChain
+- [Sentinel](https://github.com/aditya-ai-architect/Sentinel) - An autonomous multi-agent competitive intelligence platform with a 5-agent orchestration chain. #MultiAgent #CompetitiveIntelligence #Gemini
+
+### RAG & Multimodal
+- [GCP Multimodal AI RAG](https://github.com/nikolailen/gcp-multimodal-ai-rag) - A multimodal AI knowledge base with RAG on GCP, using Gemini for parsing, BigQuery for vectors, and LangChain. #RAG #Multimodal #Gemini #BigQuery
+- [F.R.I.D.A.Y](https://github.com/aditya-ai-architect/F.R.I.D.A.Y) - A 3D Intelligence Engine with real-time voice, vision, and gesture control, powered by Gemini 3.0 Pro. #3D #Multimodal #VoiceAI #Vision #Gemini
+
+### Industry Specific
+- [AI Healthcare System](https://github.com/pavanbadempet/AI-Healthcare-System) - AI-powered healthcare platform combining Machine Learning for multi-disease prediction with Generative AI for intelligent medical assistance. #Healthcare #Gemini #RAG
+- [EdGrab](https://github.com/aditya-ai-architect/EdGrab) - An AI-Powered Tutoring Platform with real-time voice AI, adaptive learning, and persistent memory. #EdTech #VoiceAI #Gemini #AdaptiveLearning
+- [IFRS 9 AI Agent](https://github.com/japponjotsingh/ifrs9-ai-agent) - An autonomous AI agent for IFRS 9 credit risk analysis using Google Gemini and BigQuery. #Finance #AutonomousAgent #Gemini #BigQuery
+
+### Chatbots & Assistants
+- [Auto-cpufreq GenAI Chatbot](https://github.com/AdnanHodzic/auto-cpufreq-genAI-chatbot) - A GenAI chatbot for auto-cpufreq, built using Vertex AI Agent Builder and powered by Gemini. #Chatbot #VertexAI #AgentBuilder #Gemini
+- [Voice Input Assistant](https://github.com/yuhao-he/voice-input-assistant) - A cloud-based voice input assistant using GCP and Gemini for enhanced productivity. #Voice #Productivity #Gemini
+
 ---
 Maintainer: [@msampathkumar](https://github.com/msampathkumar)
