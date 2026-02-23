@@ -1,4 +1,6 @@
-# awesome-gcp-llm-projects
+# Awesome GCP LLM Projects
+[![Last Commit](https://img.shields.io/github/last-commit/msampathkumar/awesome-gcp-llm-projects)](https://github.com/msampathkumar/awesome-gcp-llm-projects/commits/main)
+
 A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more. This repository features LLM apps that use models from Google (Gemini Models) and Vertex AI Model Garden(Gemini, Gemma, DeepSeek, Claude and many more).
 
 ## Projects
