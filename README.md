@@ -19,6 +19,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Letta](https://github.com/letta-ai/letta) - Control plane for stateful AI agents (formerly MemGPT). #Agents #Stateful
 - [mem0](https://github.com/mem0ai/mem0) - The memory layer for AI agents. #Agents #Memory
 - [Eigent](https://github.com/eigent-ai/eigent) - High-performance agent framework for enterprise-scale autonomous workflows. #Agents #Enterprise #Autonomous
+- [Agent Orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. #AgentOrchestration #Agents
 
 ### Model Context Protocol (MCP)
 - [Official Google Remote MCP Servers](https://docs.cloud.google.com/mcp/supported-products) - Comprehensive list of Google Cloud products accessible through remote MCP servers.
