@@ -14,7 +14,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 - [Open Data QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA) - Library for chatting with databases using LLM Agents on Google Cloud (NL2SQL). #NL2SQL #Agents
 
 - [Daggr](https://huggingface.co/blog/daggr) - A programmatic tool for chaining applications with visual inspection, bridging the gap between scripts and full agentic loops. #Agents #Automation #VisualInspection
-- [Agno](https://github.com/agno-ai/agno) - Build multi-modal agents with model-agnostic control and integrated knowledge. #Agents #MultiModal
+- [Agno]() - Build multi-modal agents with model-agnostic control and integrated knowledge. #Agents #MultiModal
 - [Browser Use](https://github.com/browser-use/browser-use) - Make any LLM operate a browser like a human. #Agents #BrowserAutomation
 - [Letta](https://github.com/letta-ai/letta) - Control plane for stateful AI agents (formerly MemGPT). #Agents #Stateful
 - [mem0](https://github.com/mem0ai/mem0) - The memory layer for AI agents. #Agents #Memory
@@ -24,7 +24,7 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 ### Model Context Protocol (MCP)
 - [Official Google Remote MCP Servers](https://docs.cloud.google.com/mcp/supported-products) - Comprehensive list of Google Cloud products accessible through remote MCP servers.
   - **Databases**: [AlloyDB](https://cloud.google.com/alloydb/docs/ai/use-alloydb-mcp), [BigQuery](https://cloud.google.com/bigquery/docs/reference/mcp), [Bigtable](https://cloud.google.com/bigtable/docs/use-bigtable-mcp), [Cloud SQL](https://cloud.google.com/sql/docs/mysql/use-cloudsql-mcp), [Firestore](https://cloud.google.com/firestore/native/docs/use-firestore-mcp), [Spanner](https://cloud.google.com/spanner/docs/use-spanner-mcp).
-  - **Infrastructure**: [Compute Engine](https://cloud.google.com/compute/docs/reference/mcp), [GKE](https://cloud.google.com/kubernetes-engine/docs/reference/mcp), [Resource Manager](https://cloud.google.com/resource-manager/reference/mcp).
+  - **Infrastructure**: [Compute Engine](https://cloud.google.com/compute/docs/reference/mcp), [GKE](https://cloud.google.com/kubernetes-engine/docs/reference/mcp), [Resource Manager]().
   - **Operations**: [Cloud Logging](https://cloud.google.com/logging/docs/reference/v2/mcp), [Cloud Monitoring](https://cloud.google.com/monitoring/api/ref_v3/mcp).
   - **Security**: [Google Security Operations](https://cloud.google.com/chronicle/docs/reference/mcp).
   - **Knowledge & Maps**: [Developer Knowledge API](https://developers.google.com/knowledge/api), [Maps Grounding Lite](https://developers.google.com/maps/ai/grounding-lite).
@@ -52,15 +52,15 @@ A curated collection of Awesome Google Cloud Platform LLM apps built with RAG, A
 
 ### Multi-Agent Systems
 - [ARBITER](https://github.com/sambhandavale/arbiter) - An adversarial multi-agent platform powered by Google ADK and Gemini that cross-examines supply chain claims. #MultiAgent #ADK #Gemini #SupplyChain
-- [Sentinel](https://github.com/aditya-ai-architect/Sentinel) - An autonomous multi-agent competitive intelligence platform with a 5-agent orchestration chain. #MultiAgent #CompetitiveIntelligence #Gemini
+- [Sentinel]() - An autonomous multi-agent competitive intelligence platform with a 5-agent orchestration chain. #MultiAgent #CompetitiveIntelligence #Gemini
 
 ### RAG & Multimodal
 - [GCP Multimodal AI RAG](https://github.com/nikolailen/gcp-multimodal-ai-rag) - A multimodal AI knowledge base with RAG on GCP, using Gemini for parsing, BigQuery for vectors, and LangChain. #RAG #Multimodal #Gemini #BigQuery
-- [F.R.I.D.A.Y](https://github.com/aditya-ai-architect/F.R.I.D.A.Y) - A 3D Intelligence Engine with real-time voice, vision, and gesture control, powered by Gemini 3.0 Pro. #3D #Multimodal #VoiceAI #Vision #Gemini
+- [F.R.I.D.A.Y]() - A 3D Intelligence Engine with real-time voice, vision, and gesture control, powered by Gemini 3.0 Pro. #3D #Multimodal #VoiceAI #Vision #Gemini
 
 ### Industry Specific
 - [AI Healthcare System](https://github.com/pavanbadempet/AI-Healthcare-System) - AI-powered healthcare platform combining Machine Learning for multi-disease prediction with Generative AI for intelligent medical assistance. #Healthcare #Gemini #RAG
-- [EdGrab](https://github.com/aditya-ai-architect/EdGrab) - An AI-Powered Tutoring Platform with real-time voice AI, adaptive learning, and persistent memory. #EdTech #VoiceAI #Gemini #AdaptiveLearning
+- [EdGrab]() - An AI-Powered Tutoring Platform with real-time voice AI, adaptive learning, and persistent memory. #EdTech #VoiceAI #Gemini #AdaptiveLearning
 - [IFRS 9 AI Agent](https://github.com/japponjotsingh/ifrs9-ai-agent) - An autonomous AI agent for IFRS 9 credit risk analysis using Google Gemini and BigQuery. #Finance #AutonomousAgent #Gemini #BigQuery
 
 ### Chatbots & Assistants
